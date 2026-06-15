@@ -100,12 +100,12 @@ export function Info(){
                                     <>
                                     This GitHub Repo is open source at:
                                     <a
-                                        href="https://github.com/your-repo-link"
+                                        href="https://github.com/nn353-source/Stock-Price-Dashboard"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="text-blue-500 underline hover:text-blue-700 ml-2"
                                     >
-                                        https://github.com/your-repo-link
+                                        https://github.com/nn353-source/Stock-Price-Dashboard
                                     </a>
                                     </>
                                 }
